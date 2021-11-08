@@ -18,9 +18,6 @@
                 },
                 "reads": {
                     "type": "string",
-                    "format": "file-path",
-                    "mimetype": "text/csv",
-                    "pattern": "^\\S+\\.csv$",
                     "description": "The input read-pair files",
                     "fa_icon": "fas fa-folder-open"
                 },
